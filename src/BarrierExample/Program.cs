@@ -13,8 +13,6 @@ Start();
 
 Console.WriteLine("\nTest completed!");
 
-Console.ReadKey();
-
 void Start()
 {
     List<Task> tasks = new();
